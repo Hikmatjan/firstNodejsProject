@@ -1,1 +1,1 @@
-# firstNodejsProject and firstNodeProject
+# firstNodejsProject and firstNodeProject. Author: Hikmat To'rayev
